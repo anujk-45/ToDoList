@@ -1,0 +1,45 @@
+.container-1 {
+  width: 500px;
+  margin: auto;
+  margin-bottom: 10px;
+  background: #fff;
+  padding: 20px 15px;
+  border-radius: 10px;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  background: #344a72;
+  color: #fff;
+  line-height: 1.8em;
+}
+
+.form-wrap button {
+  display: block;
+  background: #49c1a2;
+  width: 100%;
+  padding: 10px;
+  margin-top: 20px;
+  color: #fff;
+  border: #ddd 1px solid;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.container-1 #items button {
+  background: #49c1a2;
+}
+
+.form-wrap button:hover,
+.container-1 #items button:hover {
+  background: #37a08e;
+}
+
+.form-wrap label {
+  display: block;
+  color: #666;
+}
+
+.container #main-heading {
+  font-size: 40px;
+}
